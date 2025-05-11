@@ -44,11 +44,6 @@ An advanced, highly customizable data table built with **Material React Table**,
 - ✅ **Custom Skeleton Loader** while loading
 - ✅ **Dark Themed UI** for modern aesthetics
 
----
-
-## 🖼️ UI Snapshots
-
-> 
 
 ---
 

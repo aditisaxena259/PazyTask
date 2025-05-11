@@ -1,0 +1,20 @@
+{
+  "columnOrder": [
+    "mrt-row-select",
+    "id",
+    "avatar",
+    "name",
+    "description",
+    "amount",
+    "tooltip",
+    "mrt-row-spacer"
+  ],
+  "columnSizing": {
+    "amount": 240,
+    "description": 247,
+    "avatar": 213,
+    "tooltip": 228,
+    "name": 219
+  },
+  "rowSelection": {}
+}

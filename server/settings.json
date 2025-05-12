@@ -3,8 +3,8 @@
     "mrt-row-select",
     "id",
     "avatar",
-    "name",
     "description",
+    "name",
     "amount",
     "tooltip",
     "mrt-row-spacer"

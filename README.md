@@ -16,6 +16,8 @@ An advanced, highly customizable data table built with **Material React Table**,
 
 > _([Link To Project deployed on Vercel](https://pazy-task-uclf.vercel.app/))_
 
+Make sure you run the server locally, before viewing it on Vercel.
+
 ---
 
 ## 🧱 Tech Stack
@@ -40,11 +42,35 @@ An advanced, highly customizable data table built with **Material React Table**,
 - ✅ **Row Selection** with optional export
 - ✅ **Persistent Layout Settings** using Axios & mock API
 - ✅ **XLSX Export**: Download filtered table data
-- ✅ **Tooltips** using `@radix-ui/react-tooltip`
 - ✅ **Custom Skeleton Loader** while loading
+- ✅ **Added features like Search,Filter,Resize Toggle** via use of Material-React Table
 - ✅ **Dark Themed UI** for modern aesthetics
 
 
+---
+## Images 
+*Figure 1: Interactive Table UI with drag & drop support*
+![Dashboard Preview](/images/img1.png)
+*Figure 2:*
+![Dashboard Preview](/images/img2.png)
+*Figure 3:*
+![Dashboard Preview](/images/img3.png)
+*Figure 4:*
+![Dashboard Preview](/images/img4.png)
+*Figure 5:*
+![Dashboard Preview](/images/img5.png)
+*Figure 6:*
+![Dashboard Preview](/images/img6.png)
+*Figure 7:*
+![Dashboard Preview](/images/img7.png)
+*Figure 8:*
+![Dashboard Preview](/images/img8.png)
+*Figure 9:*
+![Dashboard Preview](/images/img9.png)
+*Figure 10:*
+![Dashboard Preview](/images/img10.png)
+*Figure 11:*
+![Dashboard Preview](/images/img11.png)
 ---
 
 ## 🛠️ Setup Instructions

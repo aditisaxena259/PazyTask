@@ -75,7 +75,7 @@ export default function AdvancedUserTable() {
   const [rowSelection, setRowSelection] = useState({});
   const [configLoaded, setConfigLoaded] = useState(false);
   useEffect(() => {
-    axios.get('http://localhost:3001/api/table-settings').then((res) => {
+    axios.get('https://pazytask.onrender.com/api/table-settings').then((res) => {
       setColumnOrder(res.data.columnOrder || []);
       setColumnSizing(res.data.columnSizing || {});
       setRowSelection(res.data.rowSelection || {});
@@ -84,7 +84,7 @@ export default function AdvancedUserTable() {
   }, []);
   useEffect(() => {
     const timeout = setTimeout(() => {
-      axios.post('http://localhost:3001/api/table-settings', {
+      axios.post('https://pazytask.onrender.com/api/table-settings', {
         columnOrder,
         columnSizing,
         rowSelection,

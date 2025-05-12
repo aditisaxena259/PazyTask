@@ -52,5 +52,5 @@ app.delete('/api/table-settings/:id', (req, res) => {
 });
 
 app.listen(3001, () => {
-  console.log('Settings API running at http://localhost:3001');
-});
+    console.log('Server running on port 3001');
+  });

@@ -14,7 +14,7 @@ An advanced, highly customizable data table built with **Material React Table**,
 
 ## 🚀 Live Preview
 
-> _(Add your deployment link or preview gif here)_
+> _([Link To Project deployed on Vercel](https://pazy-task-uclf.vercel.app/))_
 
 ---
 
